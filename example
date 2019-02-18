@@ -1,3 +1,5 @@
+from https://chocolatey.org/docs/commands-install
+
 <?xml version="1.0" encoding="utf-8"?>
 <packages>
   <package id="apackage" />
